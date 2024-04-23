@@ -4,7 +4,7 @@
 
 
 def rotate_2d_matrix(matrix):
-    """Rotates an m by n 2D matrix in place.
+    """Rotates an n by n 2D matrix 90 degrees clockwise in place.
     """
     if type(matrix) != list:
         return
